@@ -17,9 +17,6 @@ class Program
         Console.WriteLine(count);
         Console.WriteLine(totalPrice);
         Console.WriteLine(character);
-
-
-        s
         Console.WriteLine(firstName);
         Console.WriteLine(isWorking);
 
