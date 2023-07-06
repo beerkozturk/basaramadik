@@ -1,0 +1,15 @@
+/Users/berkozturk/Projects/TypeConversion/TypeConversion/bin/Debug/net7.0/TypeConversion
+/Users/berkozturk/Projects/TypeConversion/TypeConversion/bin/Debug/net7.0/TypeConversion.deps.json
+/Users/berkozturk/Projects/TypeConversion/TypeConversion/bin/Debug/net7.0/TypeConversion.runtimeconfig.json
+/Users/berkozturk/Projects/TypeConversion/TypeConversion/bin/Debug/net7.0/TypeConversion.dll
+/Users/berkozturk/Projects/TypeConversion/TypeConversion/bin/Debug/net7.0/TypeConversion.pdb
+/Users/berkozturk/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/TypeConversion.csproj.AssemblyReference.cache
+/Users/berkozturk/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkozturk/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/TypeConversion.AssemblyInfoInputs.cache
+/Users/berkozturk/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/TypeConversion.AssemblyInfo.cs
+/Users/berkozturk/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/TypeConversion.csproj.CoreCompileInputs.cache
+/Users/berkozturk/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/TypeConversion.dll
+/Users/berkozturk/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/refint/TypeConversion.dll
+/Users/berkozturk/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/TypeConversion.pdb
+/Users/berkozturk/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/TypeConversion.genruntimeconfig.cache
+/Users/berkozturk/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/ref/TypeConversion.dll
